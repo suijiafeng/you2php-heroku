@@ -2,7 +2,7 @@
   "name": "You2PHP",
   "description": "A free and open-source youtube video proxy script[Written in PHP]",
   "website": "https://suijiafeng.github.io/",
-  "repository": "https://github.com/suijiafeng/you2php-heroku",
+  "repository": "git@github.com:suijiafeng/you2php-heroku.git",
   "success_url": "/install.php",
   "env":{
     "APIKEY":{
